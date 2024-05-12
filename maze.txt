@@ -1,0 +1,25 @@
+Project name :MAZE puzzle
+
+Project description :
+        A maze is a puzzle with twists and turns, where you try to find a path from the entrance to the exit without hitting dead ends.
+Project Planning:
+    Modules:
+        Module 1: Generating a maze puzzle
+        Module 2: Gameplay Settings
+        Module 3: Sound setting
+        Module 4: Object Speed
+        Module 5: Save/Load Settings
+        Module 6: Reset Maze
+Module 1: Generating a maze puzzle
+    --> Random puzzle is generated.
+    --> The user need to find path to exit from the puzzle.
+Module 2: Gameplay Settings
+    --> User can select the difficulty of the game (i.e.easy,medium,hard).
+Module 3: Sound Settings
+    --> Allow users to toggle sound effects on/off according to their preference.
+Module 4: Object Speed
+    -->Provide a slider or dropdown menu to adjust the speed of the Object's movement within the maze
+Module 5:Save/Load Settings
+    --> Enable users to save their progress within a maze and resume from where they left off later.
+Module 6:   Reset Maze
+    -->Provide an option to reset the maze if the user wants to start over.
